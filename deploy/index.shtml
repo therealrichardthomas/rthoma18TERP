@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Richard Thomas Deployment Page</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <div class="page">
+      <h1>Richard Thomas Deployment Page</h1>
+      <ul>
+        <li><strong>Name:</strong> Richard Thomas</li>
+        <li><strong>GitHub Location:</strong> <a href="https://github.com/therealrichardthomas/rthoma18TERP">https://github.com/therealrichardthomas/rthoma18TERP</a> </li>
+        <li><strong>Render Location:</strong> <a href="https://rthoma18terp.onrender.com/">https://rthoma18terp.onrender.com/</a> </li>
+        <li><strong>Clearing Database Movies:</strong><a href="https://rthoma18terp.onrender.com/clearCollection">https://rthoma18terp.onrender.com/clearCollection</a></li>
+        <li><strong>Inserting Movies:</strong><a href="https://rthoma18terp.onrender.com/insertMovies">https://rthoma18terp.onrender.com/insertMovies</a> </li>
+        <li><strong>List Movies:</strong><a href="https://rthoma18terp.onrender.com/listMovies">https://rthoma18terp.onrender.com/listMovies</a></li>
+      </ul>
+    </div>
+
+  </body>
+</html>
